@@ -1,0 +1,67 @@
+{
+    "patient": {
+        "symptoms": [
+            "cough",
+            "headache",
+            "fever",
+            "loss of taste"
+        ],
+        "diagnoses": [
+            {
+                "name": "COVID19 (disease)",
+                "search terms": [
+                    {
+                        "# of 'cough' found": 1
+                    },
+                    {
+                        "# of 'headache' found": 1
+                    },
+                    {
+                        "# of 'fever' found": 1
+                    },
+                    {
+                        "# of 'loss of taste' found": 1
+                    }
+                ],
+                "keywords": [
+                    "viral disorder generally",
+                    "high fever",
+                    "cough",
+                    "dyspnea",
+                    "chills",
+                    "persistent tremor",
+                    "muscle pain",
+                    "headache",
+                    "sore throat",
+                    "loss of taste",
+                    "smell",
+                    "ageusia",
+                    "anosmia",
+                    "viral pneumonia",
+                    "severe cases",
+                    "myriad of coagulopathies",
+                    "blood coagulation",
+                    "thrombosis",
+                    "acute respiratory distress syndrome",
+                    "seizures",
+                    "heart attack",
+                    "stroke",
+                    "multiple cerebral infarctions",
+                    "kidney failure",
+                    "catastrophic antiphospholipid antibody syndrome",
+                    "disseminated intravascular coagulation",
+                    "rare inflammatory syndromes",
+                    "atypical kawasaki syndrome",
+                    "toxic shock syndrome",
+                    "pediatric multisystem inflammatory disease",
+                    "cytokine storm syndrome",
+                    "coronavirus sars-cov-2",
+                    "genus betacoronavirus",
+                    "causative agent"
+                ],
+                "total # of keywords": 36,
+                "sum of search terms found": 4
+            }
+        ]
+    }
+}
